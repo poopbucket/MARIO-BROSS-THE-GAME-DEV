@@ -89,7 +89,7 @@ global.skin = 2;</code>
     <instance objName="obj_bridge" x="2224" y="160" name="inst_8118BD9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bridge" x="2240" y="160" name="inst_18F075C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_axe" x="2256" y="128" name="inst_A1628C80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_toad" x="2448" y="176" name="inst_95418A98" locked="0" code="nextlevel = &quot;2-1&quot;;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_toad" x="2464" y="176" name="inst_95418A98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bowser" x="2224" y="144" name="inst_41425541" locked="0" code="fake = 1;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levelcontrol" x="0" y="0" name="inst_817A4031" locked="0" code="levelmusic = 103;&#xA;leveltime = 300;&#xA;drawblack = 1;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_lava" x="2048" y="208" name="inst_A9765249" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -108,7 +108,7 @@ alarm[3] = 120;
 global.world = nextlevel;
 
 //Go to level start
-room_goto(rm_levelstart);
+room_goto(rm_ending);
 </string>
           </argument>
         </arguments>

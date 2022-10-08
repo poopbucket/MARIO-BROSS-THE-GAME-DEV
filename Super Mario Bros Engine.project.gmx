@@ -67,6 +67,7 @@
     <sound>sound\snd_warp</sound>
     <sound>sound\snd_wind</sound>
     <sound>sound\snd_wrong</sound>
+    <sound>sound\fartandvomit</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Playable Characters">
@@ -348,6 +349,7 @@
     <sprite>sprites\explosionn</sprite>
     <sprite>sprites\sprite201</sprite>
     <sprite>sprites\sprite202</sprite>
+    <sprite>sprites\sprite203</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Level Backgrounds">
@@ -783,101 +785,6 @@
         <room>rooms\rm_w1_3</room>
         <room>rooms\rm_w1_4</room>
       </rooms>
-      <rooms name="World 2">
-        <rooms name="2-1">
-          <room>rooms\rm_w2_1</room>
-          <room>rooms\rm_w2_1_Bonus1</room>
-          <room>rooms\rm_w2_1_Bonus2</room>
-        </rooms>
-        <rooms name="2-2">
-          <room>rooms\rm_w2_2</room>
-          <room>rooms\rm_w2_2_Main</room>
-          <room>rooms\rm_w2_2_Goal</room>
-        </rooms>
-        <room>rooms\rm_w2_3</room>
-        <room>rooms\rm_w2_4</room>
-      </rooms>
-      <rooms name="World 3">
-        <rooms name="3-1">
-          <room>rooms\rm_w3_1</room>
-          <room>rooms\rm_w3_1_Bonus1</room>
-          <room>rooms\rm_w3_1_Bonus2</room>
-        </rooms>
-        <room>rooms\rm_w3_2</room>
-        <room>rooms\rm_w3_3</room>
-        <room>rooms\rm_w3_4</room>
-      </rooms>
-      <rooms name="World 4">
-        <rooms name="4-1">
-          <room>rooms\rm_w4_1</room>
-          <room>rooms\rm_w4_1_Bonus</room>
-        </rooms>
-        <rooms name="4-2">
-          <room>rooms\rm_w4_2</room>
-          <room>rooms\rm_w4_2_Main</room>
-          <room>rooms\rm_w4_2_Goal</room>
-          <room>rooms\rm_w4_2_Bonus</room>
-          <room>rooms\rm_w4_2_WarpZone</room>
-        </rooms>
-        <room>rooms\rm_w4_3</room>
-        <room>rooms\rm_w4_4</room>
-      </rooms>
-      <rooms name="World 5">
-        <rooms name="5-1">
-          <room>rooms\rm_w5_1</room>
-          <room>rooms\rm_w5_1_Bonus</room>
-        </rooms>
-        <rooms name="5-2">
-          <room>rooms\rm_w5_2</room>
-          <room>rooms\rm_w5_2_Alt</room>
-          <room>rooms\rm_w5_2_Bonus</room>
-        </rooms>
-        <room>rooms\rm_w5_3</room>
-        <room>rooms\rm_w5_4</room>
-      </rooms>
-      <rooms name="World 6">
-        <room>rooms\rm_w6_1</room>
-        <rooms name="6-2">
-          <room>rooms\rm_w6_2</room>
-          <room>rooms\rm_w6_2_Alt</room>
-          <room>rooms\rm_w6_2_Bonus</room>
-          <room>rooms\rm_w6_2_Bonus2</room>
-          <room>rooms\rm_w6_2_Bonus3</room>
-        </rooms>
-        <room>rooms\rm_w6_3</room>
-        <room>rooms\rm_w6_4</room>
-      </rooms>
-      <rooms name="World 7">
-        <rooms name="7-1">
-          <room>rooms\rm_w7_1</room>
-          <room>rooms\rm_w7_1_Bonus</room>
-        </rooms>
-        <rooms name="7-2">
-          <room>rooms\rm_w7_2</room>
-          <room>rooms\rm_w7_2_Main</room>
-          <room>rooms\rm_w7_2_Goal</room>
-        </rooms>
-        <room>rooms\rm_w7_3</room>
-        <room>rooms\rm_w7_4</room>
-      </rooms>
-      <rooms name="World 8">
-        <rooms name="8-1">
-          <room>rooms\rm_w8_1</room>
-          <room>rooms\rm_w8_1_Bonus</room>
-        </rooms>
-        <rooms name="8-2">
-          <room>rooms\rm_w8_2</room>
-          <room>rooms\rm_w8_2_Bonus</room>
-        </rooms>
-        <room>rooms\rm_w8_3</room>
-        <rooms name="8-4">
-          <room>rooms\rm_w8_4</room>
-          <room>rooms\rm_w8_4_Section2</room>
-          <room>rooms\rm_w8_4_Section3</room>
-          <room>rooms\rm_w8_4_Section4</room>
-          <room>rooms\rm_w8_4_Section5</room>
-        </rooms>
-      </rooms>
       <room>rooms\rm_ending</room>
     </rooms>
     <rooms name="Templates">
@@ -889,6 +796,7 @@
       <room>rooms\rm_gameover</room>
       <room>rooms\rm_timeup</room>
     </rooms>
+    <room>rooms\rm_thereIsNoMoreMySon</room>
   </rooms>
   <constants number="13">
     <constant name="cs_beanstalk">-6</constant>

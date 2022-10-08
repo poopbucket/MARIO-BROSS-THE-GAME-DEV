@@ -57,7 +57,7 @@ alarm[0] = 120;
             <kind>1</kind>
             <string>///Begin highscore update
 
-audio_play_sound(snd_count, 0, true);
+audio_play_sound(fartandvomit, 0, true);
 ready = 1;
 </string>
           </argument>
@@ -131,17 +131,17 @@ draw_set_alpha(1);
 //Display 'THANK YOU MARIO!'
 if (global.hardmode == 0) { //If hard mode is not selected
       
-    draw_text(16, 16, "WOW");
-    draw_text(16, 32, "YOU ATE THE #BURGOR");    
-    draw_text(16, 64, "NOW TRY TO BEAT THE GAME ON #HARD MODE.");
+    draw_text(16, 16, "THE DEMO IS OVER");
+    draw_text(16, 32, "THERE IS NO MORE BROSS FOR YOU");    
+    draw_text(16, 64, "FINAL GAME WILL RELEASE SOON");
     draw_text(16, 104, "THANK YOU FOR PLAYING!.");    
 }
 
 //Otherwise, if hard mode is selected.
 else {
 
-    draw_text(16, 16, "WAY TO GO!");
-    draw_text(16, 32, "YOU SAVED THE #MUSHROOM KINGDOM!");    
+    draw_text(16, 16, "THE DEMO IS OVER");
+    draw_text(16, 32, "THERE IS NO MORE BROSS FOR YOU");    
     draw_text(16, 64, "DID YOU GET A HIGHER SCORE #AFTER PLAYING HARD MODE?");
     draw_text(16, 104, "THANK YOU FOR PLAYING!.");    
 }
