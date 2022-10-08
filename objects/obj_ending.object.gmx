@@ -186,7 +186,7 @@ if (obj_persistent.highscore &lt; score) {
     ready = 2;
     
     //Stop sounds
-    audio_stop_sound(snd_count);
+    audio_stop_sound(fartandvomit);
     audio_play_sound(snd_countend, 0, false);
 }
 else {

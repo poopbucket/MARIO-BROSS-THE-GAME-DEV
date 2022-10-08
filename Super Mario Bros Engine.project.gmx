@@ -350,6 +350,7 @@
     <sprite>sprites\sprite201</sprite>
     <sprite>sprites\sprite202</sprite>
     <sprite>sprites\sprite203</sprite>
+    <sprite>sprites\sprite204</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Level Backgrounds">
@@ -446,6 +447,7 @@
     <background>background\bgr_title</background>
     <background>background\bgr_disclaimer</background>
     <background>background\ezgif-5-7cc8677b74</background>
+    <background>background\bgr_man</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\pth_bubble</path>
@@ -764,6 +766,7 @@
     <object>objects\obj_right</object>
     <object>objects\just_a_funny_sign</object>
     <object>objects\explosion</object>
+    <object>objects\logogoggo</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_nintendo</room>
