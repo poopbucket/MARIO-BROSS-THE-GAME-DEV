@@ -57,3 +57,8 @@ global._music[999] = bgm_bowser_final;
 global._st[999] = 0000000;
 global._en[999] = 7323008;
 
+//Level Start
+global._music[2] = bgm_start;
+global._st[2] = 0000000;
+global._en[2] = 7323008;
+

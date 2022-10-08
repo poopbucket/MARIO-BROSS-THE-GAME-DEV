@@ -696,7 +696,7 @@ else {
     fullscreen = 0;
 
     //Set the window to double of it's original size
-    filter = 2;
+    filter = 0;
 
     //VSync is off by default
     vsync = 0;

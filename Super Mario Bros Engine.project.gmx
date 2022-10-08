@@ -24,6 +24,7 @@
       <sound>sound\bgm_title_tll</sound>
       <sound>sound\bgm_underground</sound>
       <sound>sound\bgm_worldclear</sound>
+      <sound>sound\bgm_start</sound>
     </sounds>
     <sound>sound\snd_1up</sound>
     <sound>sound\sgun</sound>
