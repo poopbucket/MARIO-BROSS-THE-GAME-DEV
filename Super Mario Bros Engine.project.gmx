@@ -800,7 +800,6 @@
       <room>rooms\rm_gameover</room>
       <room>rooms\rm_timeup</room>
     </rooms>
-    <room>rooms\rm_thereIsNoMoreMySon</room>
   </rooms>
   <constants number="13">
     <constant name="cs_beanstalk">-6</constant>
