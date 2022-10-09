@@ -85,7 +85,7 @@ room_goto_next();
             <kind>1</kind>
             <string>///Play 'Coin' sound and animate
 
-audio_play_sound(fartandvomit, 0, false);
+audio_play_sound(ahh, 0, false);
 image_speed = 0.2;
 </string>
           </argument>

@@ -69,6 +69,7 @@
     <sound>sound\snd_wind</sound>
     <sound>sound\snd_wrong</sound>
     <sound>sound\fartandvomit</sound>
+    <sound>sound\ahh</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="Playable Characters">
@@ -352,6 +353,8 @@
     <sprite>sprites\sprite202</sprite>
     <sprite>sprites\sprite203</sprite>
     <sprite>sprites\sprite204</sprite>
+    <sprite>sprites\sprite205</sprite>
+    <sprite>sprites\sprite206</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Level Backgrounds">
@@ -768,6 +771,8 @@
     <object>objects\just_a_funny_sign</object>
     <object>objects\explosion</object>
     <object>objects\logogoggo</object>
+    <object>objects\object157</object>
+    <object>objects\object158</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_nintendo</room>
@@ -790,6 +795,7 @@
         <room>rooms\rm_w1_4</room>
       </rooms>
       <room>rooms\rm_ending</room>
+      <room>rooms\funny</room>
     </rooms>
     <rooms name="Templates">
       <room>rooms\rm_template</room>
